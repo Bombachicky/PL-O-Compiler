@@ -1,0 +1,18 @@
+procedure A;
+var x;
+procedure B;
+var x;
+procedure C;
+begin
+x:= y;
+end;
+begin
+x:= 1;
+y:= 3;
+call C;
+end;
+begin
+y:= 2;
+call B;
+end;
+call A
