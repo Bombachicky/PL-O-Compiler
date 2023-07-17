@@ -1,4 +1,4 @@
-==HOMEWORK 4: PARSER CODE-GEN==
+==PARSER CODE-GEN==
 Contributors: Shian Morrison, Kristian Michel
 
 
